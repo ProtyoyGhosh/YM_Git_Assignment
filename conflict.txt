@@ -1,2 +1,3 @@
-
-line 2 for master 
+line 1
+line 2
+line 3
